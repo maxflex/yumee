@@ -1,0 +1,19 @@
+html {
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+body {
+   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+
+/* Fade in */
+
+.visible {
+    visibility: visible !important;
+}
+
+.hidden {
+    visibility: hidden;
+}
