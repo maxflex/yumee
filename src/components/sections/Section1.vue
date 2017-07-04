@@ -2,8 +2,8 @@
   <div class="section" id="section1">
       <div class="section1">
           <div class="text">
-              <h3>All of your events in one app</h3>
-              <p>All of your events are stored in Days app. You can scroll through and see when they are happening.</p>
+              <h3>Вся еда в одном приложении</h3>
+              <p>Забудье о том, что сегодня пожрать бомжу, о мытье посуды и т.д.</p>
           </div>
           <video autoplay loop muted id="video" class="video">
               <source src="video/video1.mp4" type="video/mp4">

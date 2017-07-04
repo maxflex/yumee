@@ -4,7 +4,7 @@
           <div class="logo">
             <img src="/static/svg/logo.svg">
           </div>
-          <h2>Доставка правильного питания с подпиской через мобильное приложение</h2>
+          <h2>Доставка правильного питания с подпиской и мобильное приложение</h2>
           <div class="scroll-down"></div>
       </div>
   </div>
@@ -16,10 +16,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang='scss'>
-/* Section 0
-* --------------------------------------- */
 #section0 {
 	background: #ffffff;
 }
@@ -86,6 +83,11 @@ only screen and (min-device-pixel-ratio: 2) {
 @media screen and (max-width: 760px) {
 	.section0 {
 		padding: 20px;
+        & .logo {
+            & img {
+                max-width: 80%;
+            }
+        }
   	& h1 {
   		font-size: 32px;
   	}
