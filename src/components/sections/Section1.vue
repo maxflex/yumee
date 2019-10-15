@@ -2,8 +2,8 @@
   <div class="section" id="section1">
       <div class="section1">
           <div class="text">
-              <h3>Вся еда в одном приложении</h3>
-              <p>Забудье о том, что сегодня пожрать бомжу, о мытье посуды и т.д.</p>
+              <h3>Домен продаётся!</h3>
+              <p>Домен продаётся вместе с брендом и логотипом в векторном формате. Писать на <a href='mailto:m@kolyadin.com'>m@kolyadin.com</a></p>
           </div>
           <video autoplay loop muted id="video" class="video">
               <source src="video/video1.mp4" type="video/mp4">
